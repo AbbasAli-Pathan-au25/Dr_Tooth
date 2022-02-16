@@ -4,8 +4,8 @@
   "description": "Full stack  denatl website, to provide an easy way to book appointments and educate themselves.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon drToothApp.js"
+    "test": "nodemon drToothApp.js",
+    "start": "node rToothApp.js"
   },
   "author": "Abbas Ali Pathan",
   "license": "ISC",
